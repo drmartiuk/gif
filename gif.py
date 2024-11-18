@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 from PIL import Image
 frames = []
 for frame_number in range(1, 16):
